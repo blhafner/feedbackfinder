@@ -2,6 +2,8 @@
 
 A Python desktop application for fetching and analyzing customer feedback from Intercom conversations.
 
+Try it here: https://fdbkfndr.streamlit.app/
+
 ## Features
 
 - 🔍 Search feedback by team or individual admin
